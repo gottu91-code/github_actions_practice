@@ -1,5 +1,6 @@
 {
-  "name": "https://azami7.com/_test",
+  "homepage": "https://azami7.com/_test/",
+  "name": "github_actions_practice",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
