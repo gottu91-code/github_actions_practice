@@ -30,4 +30,4 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./build/
-          server-dir: /home/azamiweb/www/azami7/_test
+          server-dir: /home/azamiweb/www/azami7/_test/
